@@ -19,7 +19,7 @@ Tools & Others:
 🌱 Enhancing my skills in advanced Spring Boot features.  
 🔧 Working on real-time systems and scalable applications.  
 🌐 ReactJS for building modern frontend interfaces.  
-📊 Statistics Research: Currently conducting research in data trends and social behaviors.  
+📊 Currently conducting research in data trends and social behaviors related to fast food consumption.  
 
 🤝 Let’s Connect!  
 📬 Feel free to reach out if you want to collaborate on exciting projects or just chat about tech!  
