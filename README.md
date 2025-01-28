@@ -10,7 +10,7 @@ Backend:
 ⚙️ Java | Spring Boot | MySQL | Hibernate | MongoDB  
 🔐 Spring Security for secure authentication  
 Frontend:  
-🌐 HTML5, CSS3, JavaScript  
+🌐 HTML5, CSS3, JavaScript, ReactJS  
 Tools & Others:  
 📦 Maven for dependency management  
 📊 R and Python for data analysis  
