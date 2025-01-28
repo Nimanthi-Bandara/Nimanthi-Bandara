@@ -7,7 +7,7 @@ Hi there! I'm Nimanthi Bandara, a Computer Science & Statistics student driven b
 
 ✨ Skills & Tech Stack  
 Backend:  
-⚙️ Java | Spring Boot | MySQL | Hibernate  
+⚙️ Java | Spring Boot | MySQL | Hibernate | MongoDB  
 🔐 Spring Security for secure authentication  
 Frontend:  
 🌐 HTML5, CSS3, JavaScript  
